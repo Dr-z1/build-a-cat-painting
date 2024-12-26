@@ -1,34 +1,46 @@
-# build-a-cat-painting
-one page build a cat painting
+# **Cat Painting Webpage Project**
 
-This website was built using Free Code Camp instructions: learn Intermediate CSS by Building a Cat painting
+## **Project Overview**
 
-Section: Responsive Web Design
+#### This Project Is A **Cat Painting**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Course Name: learn Intermediate CSS by Building a Cat painting
+#### The Primary Goal Is Learn Intermediate By Building A Cat Painting.
 
+## **Course Details**
 
-Deatils:
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**:  Cat Painting.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-Mastering CSS positioning is essential for creating visually appealing and responsive web layouts
+## **Purpose**
 
-In this course, you will build a cat painting. You'll learn about how to work with absolute positioning, the z-index property, and the transform property.
+Mastering CSS Positioning Is Essential For Creating Visually Appealing And Responsive Web Layouts.  
 
-Link:
+In This Course, You Will Build A Cat Painting. 
 
-https://www.freecodecamp.org/
+You'll Learn About How To Work With Absolute Positioning, The Z-Index Property, And The Transform Property.
 
+## **Acknowledgment**
 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+## **Special Thanks**
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+**[@codeManS](https://www.youtube.com/@codeManS)**
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
